@@ -1,8 +1,6 @@
 # Thermodynamics-II-Stirling-Engine-Car
 
 ## Overview
-A small-scale **beta-type Stirling engine** powered vehicle built for Thermodynamics II. The car uses a mix of **3D-printed** and **off-the-shelf** components and demonstrates conversion of external heat into mechanical work. Included: SolidWorks models, photos, MATLAB analysis, and the final presentation. 
-
 A small-scale **beta-type Stirling engine** powered vehicle built for Thermodynamics II. The car uses a mix of **3D-printed** and **off-the-shelf** components and demonstrates conversion of external heat into mechanical work. Notoriously challenging, only ~two teams at Liberty University completed this project this year. Included: SolidWorks models, photos, MATLAB analysis, and the final presentation.
 
 ---
