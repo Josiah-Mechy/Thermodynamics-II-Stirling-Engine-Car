@@ -11,5 +11,5 @@ A small-scale **beta-type Stirling engine** powered vehicle built for Thermodyna
 - **PowerPoint Presentation:** https://github.com/Josiah-Mechy/Thermodynamics-II-Stirling-Engine-Car/blob/main/Thermo_II_Team_II_Presentation.pptx
 - **MATLAB Code:** https://github.com/Josiah-Mechy/Thermodynamics-II-Stirling-Engine-Car/blob/main/Thermodynamics_Final_Project_Stirling_Engine_Calculations.mlx
 
-## Special Thanks
-A special thanks to **Cyrus Harris** for his contributions to this project. He assisted in developing the MATLAB graphs and also led the creation of the project PowerPoint.
+## Contributions
+SolidWorks design iterations, MATLAB analysis, and PowerPoint development and presentation for the 3D-printed Stirling engine car project.
